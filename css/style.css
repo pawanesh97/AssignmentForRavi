@@ -1,0 +1,90 @@
+.sidebar{
+   background: #000011;
+   min-height: 696px;
+   padding: 13px 16px;
+}
+.b1{
+   background-color: red;
+   color:antiquewhite;
+   width: 70%;
+   height: 60px;
+   margin:0px auto;
+   text-align: left;
+   padding: 15px 15px;
+}
+.content{
+   background:white;
+   min-height: 696px;
+   padding: 13px 16px;
+}
+.event{
+   padding: 13px 16px;
+}
+.first{
+   margin-top:30px ;
+}
+.event button{
+   width: 300px;
+   height: 65px;
+   font-size: 20px;
+   text-align: left;
+   border: 2px solid #000000;
+}
+.event button span{
+   font-size: 20px;
+   padding: 13px 16px;
+   border: 1px solid;
+   border-radius: 50%;
+}
+.eventmain button{
+   padding: 13px 16px;
+   text-align: center;
+   width: 200px;
+   font-family: verdana;
+}
+.Preview{
+   text-align: right;
+   padding: 13px 16px;
+}
+.Preview button{
+   border: 2px solid red;
+   background-color:white;
+   border-radius: 25px;
+   color:red;
+   width: 300px;
+   font-family: verdana;
+   
+}
+
+.leftevent label{
+   font-family: Verdana;
+   display: flex;
+   text-align: right;
+
+}
+.leftevent input{
+   width: 75%;
+}
+.leftevent textarea{
+   width: 75%;
+}
+.leftevent s1{
+   width: 75%;
+}
+.rightevent label{
+   font-family: Verdana;
+   display: flex;
+   text-align: right;
+
+}
+.rightevent input{
+   width: 75%;
+}
+#button{
+   width: 200px;
+   background-color: red;
+   color: white;
+   height: 40px;
+   border: 1px solid white;
+   border-radius: 30px;
+}
